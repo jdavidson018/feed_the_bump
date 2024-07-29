@@ -1,22 +1,23 @@
-# create-svelte
+# Feed the Bump
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Feed the Bump is a user-friendly website for pregnant women and new parents to lookup foods and learn about their safety and benefits during different stages of pregnancy.
 
-## Creating a project
+## Features
 
-If you're seeing this, you've probably already done this step. Congrats!
+- Cute and approachable design inspired by PocketBase's aesthetic
+- Easy-to-use food lookup functionality
+- Information on food safety during pregnancy
+- Details on nutritional benefits at different pregnancy stages
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Tech Stack
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- Frontend: Svelte
+- Styling: CSS and [Tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- Backend: TBD
 
-## Developing
+## Getting Started
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've cloned a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
 npm run dev
@@ -36,3 +37,15 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Contributing
+
+We welcome contributions to Feed the Bump! Please read our contributing guidelines before submitting pull requests.
+
+## License
+
+GPL-3.0 license
+
+## Acknowledgments
+
+- Design inspiration: PocketBase (https://pocketbase.io)
