@@ -2,6 +2,8 @@
 
 Feed the Bump is a user-friendly website for pregnant women and new parents to lookup foods and learn about their safety and benefits during different stages of pregnancy.
 
+[Current Demo Site](https://feed-the-bump-2doizuqun-jdavidson018s-projects.vercel.app/)
+
 ## Features
 
 - Cute and approachable design inspired by PocketBase's aesthetic
