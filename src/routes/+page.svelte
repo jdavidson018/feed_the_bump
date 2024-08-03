@@ -1,21 +1,4 @@
-<div class="pl-10 pt-10">
-	<h1>Welcome to SvelteKit</h1>
-	<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-	<h1 class="text-3xl font-bold underline">This will prove Tailwind is working!</h1>
-	<div class="space-y-4">
-		<div class="w-96 bg-white shadow rounded">w-96</div>
-		<div class="w-80 bg-white shadow rounded">w-80</div>
-		<div class="w-72 bg-white shadow rounded">w-72</div>
-		<div class="w-64 bg-white shadow rounded">w-64</div>
-		<div class="w-60 bg-white shadow rounded">w-60</div>
-		<div class="w-56 bg-white shadow rounded">w-56</div>
-		<div class="w-52 bg-white shadow rounded">w-52</div>
-		<div class="w-48 bg-white shadow rounded">w-48</div>
-	</div>
-</div>
-
-<style lang="postcss">
-	:global(html) {
-		background-color: theme(colors.slate.300);
-	}
-</style>
+<body class="relative antialiased tracking-tight text-black bg-blue-200 font-serif">
+	<div class="absolute inset-0 bg-top bg-no-repeat bg-illustration-01"></div>
+	<h1>Big Bad H1</h1>
+</body>
